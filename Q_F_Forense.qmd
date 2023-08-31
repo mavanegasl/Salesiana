@@ -1,0 +1,342 @@
+---
+title: "Química farmacéutica en el mundo forense"
+author:
+  - name: Maicoll Arturo Vanegas Lopez
+    affiliations:
+      - id: INML
+        name: Toxicólogo Forense, Instituto Nacional de Medicina Legal y Ciencias Forenses
+      - id: UNAL
+        name: Doctorando en Ciencias Farmacéuticas, Universidad Nacional de Colombia
+format: 
+  revealjs:
+    slide-number: true
+    chalkboard: 
+      buttons: false
+    preview-links: auto
+    css: styles.css
+    footer: <https://www.medicinalegal.gov.co>
+
+editor: visual
+---
+
+## CHIQUINQUIRÁ, 1967
+
+![https://www.eltiempo.com/](Chiquinquira.jpeg){width="80%"}
+
+## CARTAGENA, 2022
+
+![https://www.eltiempo.com/](Yage.png){width="80%"}
+
+## Briceño, 2023
+
+![https://www.elpais.com/](Fentanilo.png){width="100%"}
+
+
+## Instituto Nacional de Medicina Legal y Ciencias Forenses, 1914 {.smaller}
+
+:::: {.columns}
+
+::: {.column width="40%"}
+![](Medicina legal.jpg){.absolute top=200 left=0 width="350" height="300"}
+:::
+
+::: {.column width="60%"}
+::: {.incremental}
+- Psicología/Psiquiatria Forense
+- Clínica y Patología Forense
+- Balistica y Física Forense
+- Documentología
+- Lofoscopia Forense
+- Biología
+- Genética Forense
+- Evidencia traza
+- Estupefacientes
+- Toxicología Forense
+:::
+:::
+::::
+
+## Grupo de Toxicología Forense
+
+::: {.r-stack}
+![](Causa.png){.fragment width="700" height="500"}
+
+![](Clínica.png){.fragment width="700" height="550"}
+:::
+
+
+## Alcoholemia
+
+![](FID.jpeg){.absolute top="170" left="30" width="400" height="400"}
+
+![](HS.jpg){.absolute .fragment top="90" right="80" width="450"}
+
+![](FIDiny.jpg){.absolute .fragment bottom="50" right="100" width="320"}
+
+## Cianuro
+
+![](Cianuro.jpeg){.absolute top="170" left="30" width="400" height="350"}
+
+![](HCN.jpg){.absolute .fragment top="150" right="200" width="200"}
+
+![](HCN.png){.absolute .fragment bottom="150" right="60" width="500"}
+
+## Carboxihemoglobina
+
+![](UV.jpeg){.absolute top="170" left="30" width="450" height="350"}
+![](CHB.png){.absolute .fragment top="100" right="30" width="500"}
+![](COHB.png){.absolute .fragment bottom="110" right="30" width="500"}
+
+## Drogas de abuso
+
+![](7890B.jpeg){.absolute top="170" left="30" width="450" height="350"}
+
+![](EI.png){.absolute .fragment top="150" right="30" width="500"}
+
+## Drogas de abuso
+
+{{< video Quadrupole.mp4 >}}
+
+## Drogas de abuso
+
+![](Morphine.png){.absolute .fragment top="170" left="30" width="450" height="200"}
+
+![](MorphineTMS.png){.absolute .fragment top="150" right="30" width="500" height="300"}
+
+## Fármacos y drogas
+
+![](6530.jpeg){.absolute top="170" left="20" width="400"}
+![](Imagen2.jpg){.absolute .fragment top="150" right="30" width="500"}
+
+
+## Fármacos y drogas
+
+{{< video LC-MSMS.mp4 >}}
+
+
+## Fármacos y drogas
+
+![](6550.jpeg){.absolute top="170" left="30" width="400"}
+![](JET.png){.absolute .fragment top="80" right="80" width="400"}
+![](Stream.png){.absolute .fragment bottom="25" right="20" width="500"}
+
+
+## Fármacos y drogas
+
+
+::: {.r-stack}
+
+![](Coca.png){.fragment width="700" height="500"}
+
+![](Imagen1.jpg){.fragment width="800" height="600"}
+
+::: 
+
+
+## Fármacos y drogas
+
+![](Adrenalina.jpg){.absolute .fragment top="100" left="0" width="250" height="250"}
+
+![](AMP.PNG){.absolute .fragment top="200" left="300" width="500" height="200"}
+
+![](BZP.PNG){.absolute .fragment top="400" left="800" width="250" height="150"}
+
+
+## Fármacos y drogas
+
+![](Bromo dragon fly vs LSD.jpg){.absolute .fragment left="150" width="800" height="600"}
+
+## Fármacos y drogas
+
+![](Orina.png){.absolute .fragment top="170" left="30" width="500" height="400"}
+![](Sangre.png){.absolute .fragment top="170" right="20" width="500" height="400"}
+
+
+## Plaguicidas
+
+![](Plaguicidas.png){.absolute .fragment width="1300" height="550"}
+
+
+## Plaguicidas
+
+::: {.r-stack}
+
+![](QUECHER1.jpg){.fragment width="700"}
+
+![](QUECHER2.jpg){.fragment width="700"}
+
+![](QUECHER3.jpg){.fragment width="700"}
+
+:::
+
+
+## Plaguicidas
+
+![](Amitraz.png){.absolute .fragment left="200" width="600"}
+
+![](Paraquat.png){.absolute .fragment bottom="100" left="200" width="600"}
+
+![](Aldicarb.png){.absolute .fragment top="80" width="1000" height="700"}
+![](Carbaril.png){.absolute .fragment top="80" width="1000" height="600"}
+
+
+## Matrices biológicas
+
+Matrices biológicas principales:
+
+::: incremental
+-   Sangre
+-   Orina
+-   Contenido gástrico
+-   Humor vítreo
+:::
+
+## Matrices biológicas
+
+Matrices biológicas secundarias:
+
+::: incremental
+-   Lavado vesical
+-   Bilis
+-   Líquido de purga
+-   Hematoma
+-   Riñón, hígado, cerebro y músculo
+-   Cabello
+:::
+
+## {auto-animate=true}
+
+::: {style="margin-top: 100px;"}
+Futuro de la toxicología forense
+:::
+
+## {auto-animate=true}
+
+::: {style="margin-top: 200px; font-size: 3em; color: red;"}
+Futuro de la toxicología forense
+:::
+
+## {auto-animate=true}
+
+::: {style="margin-top: 100px;"}
+Análisis multiresiduos
+:::
+
+## {auto-animate=true}
+
+::: {style="margin-top: 200px; font-size: 3em; color: red;"}
+Análisis multiresiduos
+:::
+
+## {auto-animate=true}
+
+::: {style="margin-top: 100px;"}
+Análisis cuantitativo
+:::
+
+
+## {auto-animate=true}
+
+::: {style="margin-top: 200px; font-size: 3em; color: red;"}
+Análisis cuantitativo
+:::
+
+## {auto-animate=true}
+
+::: {style="margin-top: 100px;"}
+Sensibilidad
+:::
+
+## {auto-animate=true}
+
+::: {style="margin-top: 200px; font-size: 3em; color: red;"}
+Sensibilidad
+:::
+
+## {auto-animate=true}
+
+::: {style="margin-top: 100px;"}
+Nuevas sustancias psicoactivas
+:::
+
+## {auto-animate=true}
+
+::: {style="margin-top: 200px; font-size: 3em; color: red;"}
+Nuevas sustancias psicoactivas
+:::
+
+## {auto-animate=true}
+
+::: {style="margin-top: 100px;"}
+Ciencias ómicas
+:::
+
+## {auto-animate=true}
+
+::: {style="margin-top: 200px; font-size: 3em; color: red;"}
+Ciencias ómicas
+:::
+
+## {auto-animate=true}
+
+::: {style="margin-top: 100px;"}
+Ciencia de datos
+:::
+
+## {auto-animate=true}
+
+::: {style="margin-top: 200px; font-size: 3em; color: red;"}
+Ciencia de datos
+:::
+
+## Toxicología Forense
+
+<div style="text-align: center">
+Rama especializada de la toxicología que se centra en el estudio de las sustancias químicas y sus efectos en el cuerpo humano en el contexto de investigaciones legales y judiciales. 
+<div/>
+
+::: {.fragment .fade-in}
+::: {.fragment .semi-fade-out}
+Biología > Química > Física > Matemáticas
+:::
+:::
+
+::: {.fragment .fade-in}
+::: {.fragment .semi-fade-out}
+Bioquímica > Fisico-química
+:::
+:::
+
+
+::: {.fragment .fade-in}
+::: {.fragment .semi-fade-out}
+Fisiología > Patología > Epidemiología
+:::
+:::
+
+
+::: {.fragment .fade-in}
+::: {.fragment .semi-fade-out}
+Farmacología > Biofarmacia > Farmacocinética > Farmacotecnia > Farmacognosia/Fitoquímica
+:::
+:::
+
+## Ahora les planteo un desafío:
+
+
+¿Cómo podemos aprovechar los principios de la química farmacéutica para resolver de manera más eficiente y precisa los misterios que esconde la evidencia forense? 
+
+
+Les invito a explorar nuevas fronteras en la intersección entre la química y la justicia, y a forjar un camino hacia un futuro donde la ciencia sea la clave que desvele la verdad oculta en cada muestra.
+
+
+
+
+
+
+
+
+
+
+
+
